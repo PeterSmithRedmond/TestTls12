@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateTlsVersionClient_35", "ValidateTlsVersionClient_35\ValidateTlsVersionClient_35.csproj", "{7F22FA28-C081-4185-B8BB-F968E5CAF234}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateTlsVersionClient_45", "ValidateTlsVersionClient_45\ValidateTlsVersionClient_45.csproj", "{77E52582-2178-496B-8BBF-22A9544D50BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateTlsVersionClient_46", "ValidateTlsVersionClient_46\ValidateTlsVersionClient_46.csproj", "{F946E21B-AB49-4440-9A54-C17B969F7902}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateTlsVersionClient_47", "ValidateTlsVersionClient_47\ValidateTlsVersionClient_47.csproj", "{D7A4EA04-CA0E-4242-9ECE-0ECAE3E6D5F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperSimpleSocketTlsVersionServer", "SuperSimpleSocketTlsVersionServer\SuperSimpleSocketTlsVersionServer.csproj", "{3DC8F578-41A3-4DB2-AD37-0F8302A71385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F22FA28-C081-4185-B8BB-F968E5CAF234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F22FA28-C081-4185-B8BB-F968E5CAF234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F22FA28-C081-4185-B8BB-F968E5CAF234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F22FA28-C081-4185-B8BB-F968E5CAF234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E52582-2178-496B-8BBF-22A9544D50BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E52582-2178-496B-8BBF-22A9544D50BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E52582-2178-496B-8BBF-22A9544D50BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E52582-2178-496B-8BBF-22A9544D50BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F946E21B-AB49-4440-9A54-C17B969F7902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F946E21B-AB49-4440-9A54-C17B969F7902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F946E21B-AB49-4440-9A54-C17B969F7902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F946E21B-AB49-4440-9A54-C17B969F7902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7A4EA04-CA0E-4242-9ECE-0ECAE3E6D5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A4EA04-CA0E-4242-9ECE-0ECAE3E6D5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A4EA04-CA0E-4242-9ECE-0ECAE3E6D5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A4EA04-CA0E-4242-9ECE-0ECAE3E6D5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC8F578-41A3-4DB2-AD37-0F8302A71385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC8F578-41A3-4DB2-AD37-0F8302A71385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC8F578-41A3-4DB2-AD37-0F8302A71385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC8F578-41A3-4DB2-AD37-0F8302A71385}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7703D99-2FBA-45E3-B056-2521C92800FA}
+	EndGlobalSection
+EndGlobal
